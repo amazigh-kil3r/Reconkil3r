@@ -10,3 +10,4 @@ tool recon ;)
 
 
 video of script :  https://youtu.be/GJZwls-b6nE
+1VideoSpeed1591913936424.gif
