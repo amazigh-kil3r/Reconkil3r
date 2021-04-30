@@ -3,7 +3,7 @@ ReconKil3r Tool
 
 What Is ReconKil3r Tool
 ------------------
- - ReconKil3r Just Simply Tool Find SubDomains & Scan Ports Fastly 
+ - ReconKil3r Just Simply Tool Find SubDomains & Scan Ports & Checker Status Fastly.
 
 How Use ?
 -----------
