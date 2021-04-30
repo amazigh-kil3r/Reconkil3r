@@ -1,13 +1,30 @@
-Script Work Only With Python 2 !!
+ReconKil3r Tool
+================
 
-tool recon ;) 
-1)- status code checker
-2)- online nmap scaner verry fast
-3)- very fast good subdomain finder
+What Is ReconKil3r Tool
+------------------
+ - ReconKil3r Just Simply Tool Find SubDomains & Scan Ports Fastly 
+
+How Use ?
+-----------
+```
+git clone https://github.com/amazigh-kil3r/Reconkil3r.git
+cd Reconkil3r
+python kil3r.py
+
+```
+
+### Note : Script Work Only With Python 2 !!
+
+ReconKil3r Section:
+----------------
+- status code checker
+- online nmap scaner very fast
+- very fast good subdomain finder
+
+[![reconkil3r](https://github.com/amazigh-kil3r/Reconkil3r/blob/master/1VideoSpeed1591913936424.gif)](https://github.com/amazigh-kil3r/Reconkil3r/blob/master/1VideoSpeed1591913936424.gif)
 
 
 
-
-
-video of script :  https://youtu.be/GJZwls-b6nE
+#Video of Tool :  https://youtu.be/GJZwls-b6nE
 
